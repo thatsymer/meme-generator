@@ -164,3 +164,17 @@ header > p {
     font-size: 2em;
   }
 }
+
+@media only screen and (min-width: 720px) {
+  header > p {
+    font-size: 30px;
+  }
+
+  .meme > h2 {
+    font-size: 2em;
+  }
+
+  .meme-form > button {
+    font-size: 15px;
+  }
+}
