@@ -168,10 +168,15 @@ header > p {
 @media only screen and (max-width: 720px) {
   header > p {
     font-size: 50px;
+    margin-left: 2px;
+  }
+
+  header > img {
+    margin-left: 5%;
   }
 
   .meme > h2 {
-    font-size: 2em
+    font-size: 2em;
   }
 
   .meme-form > button {
